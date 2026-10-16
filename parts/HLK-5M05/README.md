@@ -38,3 +38,6 @@ Taken from the KiCad library footprint `Converter_ACDC_Hi-Link_HLK-5Mxx`, which 
 `python tools/gen_hlk5m05.py`
 
 Licence: CC BY 4.0, see [`../../LICENSE.md`](../../LICENSE.md).
+
+## EasyEDA / OSHWLab
+Published as an OSHWLab project (CC BY 4.0, submitted 2026-10-16, pending EasyEDA review): https://oshwlab.com/manoranjan2050/project_iezpugsw

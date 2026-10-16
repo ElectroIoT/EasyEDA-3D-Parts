@@ -18,7 +18,7 @@ Pick a part, import it, see it standing on your board in 3D.
 
 ---
 
-> **About EasyEDA links:** EasyEDA Pro has no public page for a single personal part, so the part is published as an [OSHWLab project](https://oshwlab.com/manoranjan2050/project_txmignpw) (CC BY 4.0, submitted 2026-10-16, listed once EasyEDA finishes its review). The download buttons give the same files straight from this repository. Download the device file, then in EasyEDA Pro use *File, Import, EasyEDA (Professional)*; add the 3D model zip with *New 3D Model*. Step by step in [Quick start](#quick-start-easyeda-pro).
+> **About EasyEDA links:** EasyEDA Pro has no public page for a single personal part, so each part is published as an OSHWLab project: [Blue Pill](https://oshwlab.com/manoranjan2050/project_txmignpw) and [HLK-5M05](https://oshwlab.com/manoranjan2050/project_iezpugsw) (CC BY 4.0, both submitted 2026-10-16, listed once EasyEDA finishes its review). The download buttons give the same files straight from this repository. Download the device file, then in EasyEDA Pro use *File, Import, EasyEDA (Professional)*; add the 3D model zip with *New 3D Model*. Step by step in [Quick start](#quick-start-easyeda-pro).
 
 ## Why this exists
 Arduino Nano and Uno have plenty of models. A Blue Pill style board (STM32F103C8T6 / GD32F103C8T6) had none that worked as a complete, placeable part. So this repo gives you the whole set, not just a picture: **3D model + footprint + symbol**, all with the same pin numbers, ready to use.
@@ -57,7 +57,7 @@ Plug-in 2 x 20 module, 53.3 x 22.5 mm.
 - 4-pad footprint, 4-pin symbol
 - EasyEDA Pro and KiCad files
 
-[**Open the part**](parts/HLK-5M05/README.md)
+[**Open the part**](parts/HLK-5M05/README.md) &nbsp;|&nbsp; [**OSHWLab project**](https://oshwlab.com/manoranjan2050/project_iezpugsw)
 
 </td>
 </tr>
