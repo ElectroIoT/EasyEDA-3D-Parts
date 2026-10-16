@@ -12,9 +12,13 @@
 **Drop-in 3D models, footprints and symbols for parts the big libraries do not have.**
 Pick a part, import it, see it standing on your board in 3D.
 
+
+<p align="center"><a href="https://github.com/ElectroIoT/EasyEDA-3D-Parts/raw/main/parts/BluePill-GD32F103C8T6/easyeda/BluePill_GD32F103C8T6_device_rev4.elibz2"><img src="https://img.shields.io/badge/Download-EasyEDA%20Pro%20device-5ee7ff?style=for-the-badge" alt="EasyEDA Pro device"></a> <a href="https://github.com/ElectroIoT/EasyEDA-3D-Parts/raw/main/parts/BluePill-GD32F103C8T6/3d/BluePill_GD32F103C8T6_WITH_header_obj.zip"><img src="https://img.shields.io/badge/Download-3D%20model%20(with%20pins)-7cf2a8?style=for-the-badge" alt="3D model with pins"></a> <a href="https://github.com/ElectroIoT/EasyEDA-3D-Parts/raw/main/parts/BluePill-GD32F103C8T6/3d/BluePill_GD32F103C8T6_WITHOUT_header_obj.zip"><img src="https://img.shields.io/badge/Download-3D%20model%20(no%20pins)-ffd166?style=for-the-badge" alt="3D model without pins"></a> <a href="https://pro.easyeda.com/"><img src="https://img.shields.io/badge/Open-EasyEDA%20Pro-ff8fa3?style=for-the-badge" alt="Open EasyEDA Pro"></a></p>
 </div>
 
 ---
+
+> **About EasyEDA links:** EasyEDA Pro has no public page for a personal part, so the buttons above download the files straight from this repository. Download the device file, then in EasyEDA Pro use *File, Import, EasyEDA (Professional)*; add the 3D model zip with *New 3D Model*. Step by step in [Quick start](#quick-start-easyeda-pro).
 
 ## Why this exists
 Arduino Nano and Uno have plenty of models. A Blue Pill style board (STM32F103C8T6 / GD32F103C8T6) had none that worked as a complete, placeable part. So this repo gives you the whole set, not just a picture: **3D model + footprint + symbol**, all with the same pin numbers, ready to use.
