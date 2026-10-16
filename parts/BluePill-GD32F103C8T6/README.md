@@ -18,7 +18,7 @@ A drop-in part for anyone who wants to design a carrier board for a Blue Pill st
 | Pin picture | `BluePill_pinout_all_pins.png` / `.svg` | every pin name and its role in this project |
 
 Model formats: `..._mm.wrl` (VRML, millimetres), `..._kicad_scale.wrl` (VRML in KiCad's 2.54 scale), `..._obj.zip` (OBJ + MTL for EasyEDA Pro, titles end in `_rev3`).
-Extras in [`extras/`](extras/): one male header strip, one female socket strip, the module plugged into two sockets (only this one floats 11 mm high), and a tagged pin reference model (not for a PCB).
+Extras in [`3d/extras/`](3d/extras/): one male header strip, one female socket strip, the module plugged into two sockets (only this one floats 11 mm high), and a tagged pin reference model (not for a PCB).
 
 ## Facts used, and where they come from
 These were checked against a top-down photo and community data on 2026-10-15. None of it is an official drawing.

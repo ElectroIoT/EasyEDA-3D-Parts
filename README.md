@@ -14,7 +14,7 @@ Ready-made 3D models, footprints and symbols for parts that EasyEDA Pro and KiCa
 - Solder-in parts have a 3D offset so the pin tails show below the PCB.
 
 ## Adding a new part
-1. Make the files under `parts/<Part-Name>/` (3d, easyeda, kicad, extras, README).
+1. Make the files under `parts/<Part-Name>/` (3d, easyeda, kicad, eda, README).
 2. Add a row to the table above.
 3. Commit and push, one commit per part or per change (`git add -A && git commit && git push`).
 
