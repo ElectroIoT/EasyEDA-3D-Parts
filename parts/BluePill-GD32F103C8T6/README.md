@@ -2,7 +2,7 @@
 
 A drop-in part for anyone who wants to design a carrier board for a Blue Pill style module, in **EasyEDA Pro** or **KiCad**. It has a 3D model (with the silkscreen text built in), a 2 x 20 through-hole footprint and a 40-pin symbol, all with the same pin numbering.
 
-![Blue Pill with header pins](preview_WITH_header.jpg)
+![Blue Pill with header pins](3d/preview_WITH_header.jpg)
 
 ![Blue Pill, all 40 pins and their roles in the AutoBath project](BluePill_pinout_all_pins.png)
 
