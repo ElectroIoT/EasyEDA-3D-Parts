@@ -7,7 +7,7 @@
 ![License](https://img.shields.io/badge/license-CC%20BY%204.0-ff8fa3?style=for-the-badge)
 ![EasyEDA Pro](https://img.shields.io/badge/EasyEDA-Pro-5ee7ff?style=for-the-badge)
 ![KiCad](https://img.shields.io/badge/KiCad-6%20%7C%207%20%7C%208-7cf2a8?style=for-the-badge)
-![Parts](https://img.shields.io/badge/parts-1%20and%20growing-ffd166?style=for-the-badge)
+![Parts](https://img.shields.io/badge/parts-2%20and%20growing-ffd166?style=for-the-badge)
 
 **Drop-in 3D models, footprints and symbols for parts the big libraries do not have.**
 Pick a part, import it, see it standing on your board in 3D.
@@ -40,6 +40,24 @@ Plug-in 2 x 20 module, 53.3 x 22.5 mm.
 - Pin picture with every pin name
 
 [**Open the part**](parts/BluePill-GD32F103C8T6/README.md)
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="46%" align="center"><img src="assets/hlk5m05_iso.jpg" alt="HLK-5M05 3D view" width="100%"></td>
+<td>
+
+### Hi-Link HLK-5M05 (5 V 5 W AC-DC module)
+4-pin through-hole power module.
+
+- 3D model with real pin positions and height
+- 4-pad footprint, 4-pin symbol
+- EasyEDA Pro and KiCad files
+
+[**Open the part**](parts/HLK-5M05/README.md)
 
 </td>
 </tr>
