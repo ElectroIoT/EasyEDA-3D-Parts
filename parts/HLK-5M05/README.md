@@ -6,8 +6,8 @@ A placeable part for the Hi-Link **HLK-5M05** isolated AC-DC converter (85-264 V
 
 | What | File |
 |---|---|
-| 3D model, EasyEDA Pro | `3d/HLK-5M05_obj.zip` (OBJ + MTL, title `hlk-5m05_rev1`) |
-| 3D model, VRML | `3d/HLK-5M05_mm.wrl` (mm), `3d/HLK-5M05_kicad_scale.wrl` (KiCad scale) |
+| 3D model, EasyEDA Pro | `3d/HLK-5M05_3D_obj.zip` (OBJ + MTL, model name `HLK-5M05_3D`) |
+| 3D model, VRML | `3d/HLK-5M05_3D_mm.wrl` (mm), `3d/HLK-5M05_3D_kicad_scale.wrl` (KiCad scale) |
 | EasyEDA / EAGLE library | `eda/HLK-5M05.lbr` (device `HLK-5M05_3D`, footprint `HLK-5M05_TH`) |
 | KiCad | `kicad/HLK-5M05.kicad_mod`, `kicad/HLK-5M05.kicad_sym` |
 
@@ -31,7 +31,7 @@ Taken from the KiCad library footprint `Converter_ACDC_Hi-Link_HLK-5Mxx`, which 
 
 ## Use it in EasyEDA Pro
 1. File, Import, EAGLE, pick `eda/HLK-5M05.lbr`, option Extract Libraries.
-2. New 3D Model, pick `3d/HLK-5M05_obj.zip`, Save.
+2. New 3D Model, pick `3d/HLK-5M05_3D_obj.zip`, Save.
 3. Open footprint `HLK-5M05_TH`, link the 3D model, and set the 3D **Z offset to -4.9 mm** so the pin tails show below the board.
 
 ## Regenerate

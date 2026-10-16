@@ -11,5 +11,5 @@
   (pad "2" thru_hole oval (at -16.80 3.00) (size 1.7 2.0) (drill 1.0) (layers "*.Cu" "*.Mask"))
   (pad "3" thru_hole oval (at 16.80 -9.00) (size 1.7 2.0) (drill 1.0) (layers "*.Cu" "*.Mask"))
   (pad "4" thru_hole oval (at 16.80 9.00) (size 1.7 2.0) (drill 1.0) (layers "*.Cu" "*.Mask"))
-  (model "${KIPRJMOD}/HLK-5M05_kicad_scale.wrl" (offset (xyz 0 0 0)) (scale (xyz 1 1 1)) (rotate (xyz 0 0 0)))
+  (model "${KIPRJMOD}/HLK-5M05_3D_kicad_scale.wrl" (offset (xyz 0 0 0)) (scale (xyz 1 1 1)) (rotate (xyz 0 0 0)))
 )
