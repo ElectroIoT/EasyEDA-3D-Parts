@@ -4,7 +4,7 @@ A drop-in part for anyone who wants to design a carrier board for a Blue Pill st
 
 ![Blue Pill with header pins](3d/preview_WITH_header.jpg)
 
-![Blue Pill, all 40 pins and their roles in the AutoBath project](BluePill_pinout_all_pins.png)
+![Blue Pill, all 40 pins and their roles in the AutoBath project](3d/BluePill_pinout_all_pins.png)
 
 ## What is in the box
 
